@@ -1,0 +1,53 @@
+C:\Users\Asus\Desktop\Summer\OOP2\code\ShopManagementSystem\ShopManagementSystem\bin\Debug\ShopManagementSystem.exe.config
+C:\Users\Asus\Desktop\Summer\OOP2\code\ShopManagementSystem\ShopManagementSystem\bin\Debug\ShopManagementSystem.exe
+C:\Users\Asus\Desktop\Summer\OOP2\code\ShopManagementSystem\ShopManagementSystem\bin\Debug\ShopManagementSystem.pdb
+C:\Users\Asus\Desktop\Summer\OOP2\code\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Summer\OOP2\code\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.LogIn.resources
+C:\Users\Asus\Desktop\Summer\OOP2\code\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.Properties.Resources.resources
+C:\Users\Asus\Desktop\Summer\OOP2\code\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Summer\OOP2\code\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Summer\OOP2\code\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.exe
+C:\Users\Asus\Desktop\Summer\OOP2\code\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.pdb
+C:\Users\Asus\Desktop\Summer\OOP2\code\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.exe.config
+C:\Users\Asus\Desktop\Summer\OOP2\code\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.AdminFp.resources
+C:\Users\Asus\Desktop\Summer\OOP2\code\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.AdminProfile.resources
+C:\Users\Asus\Desktop\ShopManagementSystem\ShopManagementSystem\bin\Debug\ShopManagementSystem.exe.config
+C:\Users\Asus\Desktop\ShopManagementSystem\ShopManagementSystem\bin\Debug\ShopManagementSystem.exe
+C:\Users\Asus\Desktop\ShopManagementSystem\ShopManagementSystem\bin\Debug\ShopManagementSystem.pdb
+C:\Users\Asus\Desktop\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.AdminFrontPage.resources
+C:\Users\Asus\Desktop\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.AdminProfile.resources
+C:\Users\Asus\Desktop\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.AdminProfileInfo.resources
+C:\Users\Asus\Desktop\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.ChangePassword.resources
+C:\Users\Asus\Desktop\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.LogIn.resources
+C:\Users\Asus\Desktop\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.ProductOP.resources
+C:\Users\Asus\Desktop\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.Properties.Resources.resources
+C:\Users\Asus\Desktop\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.Start.resources
+C:\Users\Asus\Desktop\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.User.resources
+C:\Users\Asus\Desktop\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.exe
+C:\Users\Asus\Desktop\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.pdb
+C:\Users\Asus\Desktop\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.exe.config
+C:\Users\Mahmudur R Mitul\Downloads\ShopManagementSystem\ShopManagementSystem\bin\Debug\ShopManagementSystem.exe
+C:\Users\Mahmudur R Mitul\Downloads\ShopManagementSystem\ShopManagementSystem\bin\Debug\ShopManagementSystem.exe.config
+C:\Users\Mahmudur R Mitul\Downloads\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Mahmudur R Mitul\Downloads\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.AdminFrontPage.resources
+C:\Users\Mahmudur R Mitul\Downloads\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.AdminProfile.resources
+C:\Users\Mahmudur R Mitul\Downloads\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.AdminProfileInfo.resources
+C:\Users\Mahmudur R Mitul\Downloads\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.ChangePassword.resources
+C:\Users\Mahmudur R Mitul\Downloads\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.Employee.resources
+C:\Users\Mahmudur R Mitul\Downloads\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.EmployeeProfile.resources
+C:\Users\Mahmudur R Mitul\Downloads\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.LogIn.resources
+C:\Users\Mahmudur R Mitul\Downloads\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.InvoiceDetails.resources
+C:\Users\Mahmudur R Mitul\Downloads\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.ProductOP.resources
+C:\Users\Mahmudur R Mitul\Downloads\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.Properties.Resources.resources
+C:\Users\Mahmudur R Mitul\Downloads\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.Selling.resources
+C:\Users\Mahmudur R Mitul\Downloads\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.Start.resources
+C:\Users\Mahmudur R Mitul\Downloads\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.User.resources
+C:\Users\Mahmudur R Mitul\Downloads\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.csproj.GenerateResource.cache
+C:\Users\Mahmudur R Mitul\Downloads\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Mahmudur R Mitul\Downloads\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.exe
+C:\Users\Mahmudur R Mitul\Downloads\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.pdb
+C:\Users\Mahmudur R Mitul\Downloads\ShopManagementSystem\ShopManagementSystem\bin\Debug\ShopManagementSystem.pdb
+C:\Users\Mahmudur R Mitul\Downloads\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.exe.config

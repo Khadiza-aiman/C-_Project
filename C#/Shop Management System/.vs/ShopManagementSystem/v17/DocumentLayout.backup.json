@@ -1,0 +1,396 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|c:\\users\\mahmudur r mitul\\downloads\\shopmanagementsystem\\shopmanagementsystem\\selling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\selling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\shopmanagementsystem\\selling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\selling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\shopmanagementsystem\\productop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\productop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\shopmanagementsystem\\invoicedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\invoicedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\shopmanagementsystem\\invoicedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\invoicedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\shopmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\shopmanagementsystem\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\shopmanagementsystem\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\shopmanagementsystem\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\shopmanagementsystem\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\shopmanagementsystem\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\shopmanagementsystem\\adminprofileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\adminprofileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\shopmanagementsystem\\adminprofileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\adminprofileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\shopmanagementsystem\\adminprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\adminprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\shopmanagementsystem\\adminfrontpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\adminfrontpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\shopmanagementsystem\\adminfrontpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\adminfrontpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\shopmanagementsystem\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\shopmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\shopmanagementsystem\\adminfrontpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\adminfrontpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\shopmanagementsystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\shopmanagementsystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\shopmanagementsystem\\productop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\productop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\shopmanagementsystem\\employee.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\employee.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\shopmanagementsystem\\selling.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E62FD6A-D479-4BE7-8DF1-D03B1CE1873A}|ShopManagementSystem\\ShopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\selling.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChangePassword.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\ChangePassword.cs",
+              "RelativeDocumentMoniker": "ShopManagementSystem\\ChangePassword.cs",
+              "ToolTip": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\ChangePassword.cs [Design]",
+              "RelativeToolTip": "ShopManagementSystem\\ChangePassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T07:23:57.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminProfileInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\AdminProfileInfo.cs",
+              "RelativeDocumentMoniker": "ShopManagementSystem\\AdminProfileInfo.cs",
+              "ToolTip": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\AdminProfileInfo.cs",
+              "RelativeToolTip": "ShopManagementSystem\\AdminProfileInfo.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T07:23:08.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminProfile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\AdminProfile.cs",
+              "RelativeDocumentMoniker": "ShopManagementSystem\\AdminProfile.cs",
+              "ToolTip": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\AdminProfile.cs [Design]",
+              "RelativeToolTip": "ShopManagementSystem\\AdminProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T07:22:47.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\EmployeeProfile.cs",
+              "RelativeDocumentMoniker": "ShopManagementSystem\\EmployeeProfile.cs",
+              "ToolTip": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\EmployeeProfile.cs",
+              "RelativeToolTip": "ShopManagementSystem\\EmployeeProfile.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAGEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T06:03:57.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeProfile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\EmployeeProfile.cs",
+              "RelativeDocumentMoniker": "ShopManagementSystem\\EmployeeProfile.cs",
+              "ToolTip": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\EmployeeProfile.cs [Design]",
+              "RelativeToolTip": "ShopManagementSystem\\EmployeeProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T06:03:53.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvoiceDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\InvoiceDetails.cs",
+              "RelativeDocumentMoniker": "ShopManagementSystem\\InvoiceDetails.cs",
+              "ToolTip": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\InvoiceDetails.cs",
+              "RelativeToolTip": "ShopManagementSystem\\InvoiceDetails.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAwwH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T19:37:37.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvoiceDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\InvoiceDetails.cs",
+              "RelativeDocumentMoniker": "ShopManagementSystem\\InvoiceDetails.cs",
+              "ToolTip": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\InvoiceDetails.cs [Design]",
+              "RelativeToolTip": "ShopManagementSystem\\InvoiceDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T19:35:41.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminProfileInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\AdminProfileInfo.cs",
+              "RelativeDocumentMoniker": "ShopManagementSystem\\AdminProfileInfo.cs",
+              "ToolTip": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\AdminProfileInfo.cs [Design]",
+              "RelativeToolTip": "ShopManagementSystem\\AdminProfileInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T19:34:04.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\User.cs",
+              "RelativeDocumentMoniker": "ShopManagementSystem\\User.cs",
+              "ToolTip": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\User.cs",
+              "RelativeToolTip": "ShopManagementSystem\\User.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAIwHQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T19:31:51.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "User.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\User.cs",
+              "RelativeDocumentMoniker": "ShopManagementSystem\\User.cs",
+              "ToolTip": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\User.cs [Design]",
+              "RelativeToolTip": "ShopManagementSystem\\User.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T19:31:47.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\DataAccess.cs",
+              "RelativeDocumentMoniker": "ShopManagementSystem\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\DataAccess.cs",
+              "RelativeToolTip": "ShopManagementSystem\\DataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T19:18:14.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "ShopManagementSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\Form1.cs",
+              "RelativeToolTip": "ShopManagementSystem\\Form1.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwD4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T19:17:51.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "ShopManagementSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\Form1.cs [Design]",
+              "RelativeToolTip": "ShopManagementSystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T19:17:48.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductOP.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\ProductOP.cs",
+              "RelativeDocumentMoniker": "ShopManagementSystem\\ProductOP.cs",
+              "ToolTip": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\ProductOP.cs",
+              "RelativeToolTip": "ShopManagementSystem\\ProductOP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T19:17:02.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductOP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\ProductOP.cs",
+              "RelativeDocumentMoniker": "ShopManagementSystem\\ProductOP.cs",
+              "ToolTip": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\ProductOP.cs [Design]",
+              "RelativeToolTip": "ShopManagementSystem\\ProductOP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T19:16:59.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Employee.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\Employee.Designer.cs",
+              "RelativeDocumentMoniker": "ShopManagementSystem\\Employee.Designer.cs",
+              "ToolTip": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\Employee.Designer.cs",
+              "RelativeToolTip": "ShopManagementSystem\\Employee.Designer.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAtwK0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T19:01:59.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Selling.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\Selling.Designer.cs",
+              "RelativeDocumentMoniker": "ShopManagementSystem\\Selling.Designer.cs",
+              "ToolTip": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\Selling.Designer.cs",
+              "RelativeToolTip": "ShopManagementSystem\\Selling.Designer.cs",
+              "ViewState": "AgIAACQBAAAAAAAAAADwvzYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T18:56:04.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Selling.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\Selling.cs",
+              "RelativeDocumentMoniker": "ShopManagementSystem\\Selling.cs",
+              "ToolTip": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\Selling.cs",
+              "RelativeToolTip": "ShopManagementSystem\\Selling.cs",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T18:55:52.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Selling.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\Selling.cs",
+              "RelativeDocumentMoniker": "ShopManagementSystem\\Selling.cs",
+              "ToolTip": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\Selling.cs [Design]",
+              "RelativeToolTip": "ShopManagementSystem\\Selling.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T18:54:05.502Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminFrontPage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\AdminFrontPage.Designer.cs",
+              "RelativeDocumentMoniker": "ShopManagementSystem\\AdminFrontPage.Designer.cs",
+              "ToolTip": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\AdminFrontPage.Designer.cs",
+              "RelativeToolTip": "ShopManagementSystem\\AdminFrontPage.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMoBAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T18:15:20.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminFrontPage.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\AdminFrontPage.cs",
+              "RelativeDocumentMoniker": "ShopManagementSystem\\AdminFrontPage.cs",
+              "ToolTip": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\AdminFrontPage.cs",
+              "RelativeToolTip": "ShopManagementSystem\\AdminFrontPage.cs",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAAAGgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T15:37:37.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\Employee.cs",
+              "RelativeDocumentMoniker": "ShopManagementSystem\\Employee.cs",
+              "ToolTip": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\Employee.cs",
+              "RelativeToolTip": "ShopManagementSystem\\Employee.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAiwAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T15:26:21.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\Employee.cs",
+              "RelativeDocumentMoniker": "ShopManagementSystem\\Employee.cs",
+              "ToolTip": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\Employee.cs [Design]",
+              "RelativeToolTip": "ShopManagementSystem\\Employee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T15:22:51.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminFrontPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\AdminFrontPage.cs",
+              "RelativeDocumentMoniker": "ShopManagementSystem\\AdminFrontPage.cs",
+              "ToolTip": "C:\\Users\\Mahmudur R Mitul\\Downloads\\ShopManagementSystem\\ShopManagementSystem\\AdminFrontPage.cs [Design]",
+              "RelativeToolTip": "ShopManagementSystem\\AdminFrontPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T15:22:20.12Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
